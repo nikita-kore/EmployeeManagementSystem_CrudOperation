@@ -4,3 +4,6 @@ Description:
 The Employee Management System is a beginner-level project developed using Core Java and Eclipse IDE. 
 This project aims to provide basic functionalities for managing employee information within an organization.
 It implements CRUD (Create, Read, Update, Delete) operations to enable users to add new employees, view existing ones, update their details, and delete outdated records.
+
+Technologies Used:
+
